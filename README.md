@@ -1,4 +1,4 @@
 luatests
 ========
 
-Learning Lua
+Learning Lua and git
